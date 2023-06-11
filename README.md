@@ -1,1 +1,1 @@
-# object-detection using yolov8 model
+# Object Detection using YOLOv8 model
